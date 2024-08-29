@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hamna Sohail Khan</h1>
-<h3 align="center">A passionate frontend web-developer.</h3>
+<h3 align="center">A passionate frontend web-developer.</h3
 
 - 🔭 I’m currently working on **a profile site.**
 
-- 🌱 I’m currently learning **Javascript, React Js**
+- 🌱 I’m currently learning **Python, React Js**
 
 - 👯 I’m looking to collaborate on **Final Year Project**
 
 - 📫 How to reach me **hamnasohailkhan@gmail.com**
 
-- ⚡ Fun fact **I'm very into graphic design too :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
